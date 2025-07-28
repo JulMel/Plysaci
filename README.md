@@ -4,7 +4,7 @@ Tato jednoduchá aplikace slouží k prohlížení kolekce plyšových zvířát
 Uživatel může napsat hledané písmeno nebo slovo a aplikace zobrazí pouze ta zvířátka, jejichž název odpovídá.
 
 Projekt vznikl jako cvičení v rámci studia Reactu a TypeScriptu.  
-Cílem bylo proocvičit si typování dat, práci se stavem (`useState`, `useEffect`) a základní filtraci dat.
+Cílem bylo procvičit si typování dat, práci se stavem (`useState`, `useEffect`) a základní filtraci dat.
 
 <img width="1359" height="799" alt="React12-Plyšáci" src="https://github.com/user-attachments/assets/e8db3987-8e29-460d-8ac5-4f6d53455231" />
 
